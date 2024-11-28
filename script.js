@@ -52,6 +52,6 @@
 
 // номер 5
 // let words = ['hello', 'world'];
-// let sentence = words.join(' ');
-// console.log(sentence);
+// let words = words.join(' ');
+// console.log(words);
 
